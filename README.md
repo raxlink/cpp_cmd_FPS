@@ -1,1 +1,1 @@
-# cpp_cmd_FPS
+This is a commandline based First person shooter.
