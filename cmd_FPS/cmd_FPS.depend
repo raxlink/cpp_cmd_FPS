@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721402516 source:c:\users\divye\onedrive\documents\github\cpp_cmd_fps\cmd_fps\main.cpp
+	<iostream>
+	<windows.h>
+
